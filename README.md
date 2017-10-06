@@ -1,5 +1,7 @@
 # Gitostvovanie
 Exercises: Git and GitHub
-We resolved the conflict!
+This project will contain alibali.
+Repository made for exercises.
+Edited again in master branch.
 
 
