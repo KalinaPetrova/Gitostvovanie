@@ -9,6 +9,11 @@ THis project eill contain...
 Repository made for exercises.
 Hello, again!!!
 
+
 Making new changes.
+
+
+Now, I will make another conflict here.
+And we try tosolve the problem.
 
 
